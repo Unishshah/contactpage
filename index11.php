@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="icon" href="dentalimages/favicon%20(1).ico" >
+    <link rel="icon" href="dentalimages/favicon(1).ico" >
   <title>Yash Dental Clinic</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
