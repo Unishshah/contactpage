@@ -1,1 +1,1 @@
-# contactpage
+To run the file..you will need to have an online server in your system. You can install xampp its free to use and use the apache server which is within the xampp server to successfully send the email from the contact form
